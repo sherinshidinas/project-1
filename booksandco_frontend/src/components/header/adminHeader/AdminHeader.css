@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+/* .navbar{
+    position: fixed;
+      background-color: white;
+      top: 0;
+      
+  } */
+
+.admin-first-nav {
+  background-color: #e42b26;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+#admin-toll-free {
+  font-size: small;
+}
+
+.gap-5 {
+  gap: 5rem;
+}
+
+.first-nav-lists {
+  list-style: none;
+  text-decoration: none;
+}
+.first-nav-lists a {
+  text-decoration: none;
+  color: white;
+  /* margin: 0 25px; */
+}
+
+.navbar {
+  height: 40px;
+ 
+}
+
+.admin-logo-image {
+  height: 5.5rem;
+  width: 10.3rem;
+  margin-right: 2rem;
+  margin-left: 1.2rem;
+}
+
+.admin-icon i:hover {
+  color: #e42b26;
+}
+
+.navbar-nav a {
+  text-decoration: none;
+}
+
+.navbar-nav button {
+  border: none;
+  background: none;
+}
+
+.navbar-nav button i {
+  color: rgb(97, 97, 97);
+}
+
+
+
+.admin-items li {
+  list-style: none;
+ 
+}
+
+.admin-items a {
+  text-decoration: none;
+  
+ 
+}

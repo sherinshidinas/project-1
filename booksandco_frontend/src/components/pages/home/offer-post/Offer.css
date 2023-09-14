@@ -1,0 +1,24 @@
+.offer-post-content {
+  max-width: 450px;
+}
+
+
+.container{
+    align-items: center;
+    gap: 9rem;
+    
+}
+
+.wraper a img {
+  height: 150px;
+  width: 100px;
+  transition: transform 400ms;
+}
+
+.wraper a img:hover{
+    transform: scale(1.08);
+}
+
+.offer-post-content a{
+    background-color: #e42b26;
+}

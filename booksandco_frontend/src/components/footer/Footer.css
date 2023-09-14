@@ -1,0 +1,18 @@
+#footer-image{
+    width: 11rem;
+    height: 6rem;
+        
+}
+
+.footer-img{
+    width: 50%;
+   /* margin-left: 325px; */
+   margin-top: 20px;
+
+}
+
+.footer-content p{
+    max-width: 450px;
+    margin-left: 410px;
+}
+

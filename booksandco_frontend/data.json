@@ -1,0 +1,3656 @@
+
+   [
+    {
+      "kind": "books#volume",
+      "id": "hRNTAQAAQBAJ",
+      "etag": "fEia/Gt89a4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hRNTAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Malayalam",
+        "authors": ["R Asher"],
+        "publisher": "Routledge",
+        "publishedDate": "2013-10-11",
+        "description": "Malayalam is one of the four major Dravidian languages spoken principally in the southern part of India. It has a recorded history of eight centuries and is spoken by more than thirty million people on the Malabar coast of southern India This is the first detailed description of Malayalam, providing an in-depth analysis of the linguistic richness of this language.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781136100840"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1136100849"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 520,
+        "printType": "BOOK",
+        "categories": ["Language Arts & Disciplines"],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hRNTAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hRNTAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=hRNTAQAAQBAJ&printsec=frontcover&dq=malayalam&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hRNTAQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hRNTAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3138.8,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 3138.8,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hRNTAQAAQBAJ&rdid=book-hRNTAQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3138800000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3138800000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Malayalam-sample-epub.acsm?id=hRNTAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Malayalam-sample-pdf.acsm?id=hRNTAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hRNTAQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It has a recorded history of eight centuries and is spoken by more than thirty million people on the Malabar coast of southern India This is the first detailed description of Malayalam, providing an in-depth analysis of the linguistic ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0JRM7NCcGg8C",
+      "etag": "7hJqd6FXljI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0JRM7NCcGg8C",
+      "volumeInfo": {
+        "title": "Learn Malayalam in 30 Days Through English",
+        "authors": ["Krishna Gopal Vikal"],
+        "publisher": "Diamond Pocket Books (P) Ltd.",
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8128811894"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788128811890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": ["Malayalam language"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0JRM7NCcGg8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0JRM7NCcGg8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0JRM7NCcGg8C&printsec=frontcover&dq=malayalam&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=0JRM7NCcGg8C&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learn_Malayalam_in_30_Days_Through_Engli.html?hl=&id=0JRM7NCcGg8C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Learn_Malayalam_in_30_Days_Through_Engli-sample-pdf.acsm?id=0JRM7NCcGg8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0JRM7NCcGg8C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "umtEAQAAMAAJ",
+      "etag": "Mb5OT1YSdQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/umtEAQAAMAAJ",
+      "volumeInfo": {
+        "title": "A Malayalam and English Dictionary: The vowels",
+        "authors": ["Hermann Gundert"],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B5354370"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 406,
+        "printType": "BOOK",
+        "categories": ["Malayalam language"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=umtEAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=umtEAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=umtEAQAAMAAJ&printsec=frontcover&dq=malayalam&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=umtEAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=umtEAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=umtEAQAAMAAJ&rdid=book-umtEAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=umtEAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kgGsEAAAQBAJ",
+      "etag": "i4nOFXxymVA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kgGsEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Malayalam and English Dictionary",
+        "authors": ["H. Gundert"],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2023-02-06",
+        "description": "Reprint of the original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783368152680"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3368152688"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1138,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kgGsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kgGsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=kgGsEAAAQBAJ&printsec=frontcover&dq=malayalam&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=kgGsEAAAQBAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Malayalam_and_English_Dictionary.html?hl=&id=kgGsEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/A_Malayalam_and_English_Dictionary-sample-pdf.acsm?id=kgGsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kgGsEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Reprint of the original."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0K8FAAAAQAAJ",
+      "etag": "kw9kemPfUXo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0K8FAAAAQAAJ",
+      "volumeInfo": {
+        "title": "A Malayalam and English Dictionary",
+        "authors": ["Hermann Gundert"],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:N10281546"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1178,
+        "printType": "BOOK",
+        "categories": ["Malayalam language"],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0K8FAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0K8FAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0K8FAAAAQAAJ&printsec=frontcover&dq=malayalam&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0K8FAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0K8FAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0K8FAAAAQAAJ&rdid=book-0K8FAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.in/books/download/A_Malayalam_and_English_Dictionary.epub?id=0K8FAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.in/books/download/A_Malayalam_and_English_Dictionary.pdf?id=0K8FAAAAQAAJ&hl=&output=pdf&sig=ACfU3U2xaed0Z1y4FcjNpT4Iy0Xr-mehlw&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0K8FAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qP4oDwAAQBAJ",
+      "etag": "vp2q6nnliGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qP4oDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Malayalam (Indian Classics)",
+        "authors": ["S. GANESA AIYAR"],
+        "publisher": "Publications Division Ministry of Information & Broadcasting",
+        "publishedDate": "2017-06-21",
+        "description": "The aim of publishing Indian Classics series was to make available the contents of all the classics of all Indian languages for everyone, irrespective of his/her mother-tongue. The present selection of compilation and abbreviation of the Classic in Malayalam has been accomplished by S. Ganesa Aiyar.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788123024936"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8123024932"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qP4oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qP4oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=qP4oDwAAQBAJ&printsec=frontcover&dq=malayalam&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qP4oDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qP4oDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 69.62,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 69.62,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qP4oDwAAQBAJ&rdid=book-qP4oDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 69620000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 69620000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Malayalam_Indian_Classics-sample-epub.acsm?id=qP4oDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Malayalam_Indian_Classics-sample-pdf.acsm?id=qP4oDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qP4oDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The present selection of compilation and abbreviation of the Classic in Malayalam has been accomplished by S. Ganesa Aiyar."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R9GbBVfrm4gC",
+      "etag": "hqGcQHfBrcg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R9GbBVfrm4gC",
+      "volumeInfo": {
+        "title": "A Primer of Malayalam Literature",
+        "authors": ["T. K. Krishna Menon"],
+        "publisher": "Asian Educational Services",
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8120606035"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120606036"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": ["Foreign Language Study"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.4.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R9GbBVfrm4gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R9GbBVfrm4gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=R9GbBVfrm4gC&printsec=frontcover&dq=malayalam&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=R9GbBVfrm4gC&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Primer_of_Malayalam_Literature.html?hl=&id=R9GbBVfrm4gC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/A_Primer_of_Malayalam_Literature-sample-pdf.acsm?id=R9GbBVfrm4gC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R9GbBVfrm4gC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WpWkpcBz3NYC",
+      "etag": "Zllu2/3YSZ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WpWkpcBz3NYC",
+      "volumeInfo": {
+        "title": "Applied Language Learning",
+        "publishedDate": "2007",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCBK:C098777991"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": ["Applied linguistics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WpWkpcBz3NYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WpWkpcBz3NYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=WpWkpcBz3NYC&printsec=frontcover&dq=malayalam&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WpWkpcBz3NYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WpWkpcBz3NYC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=WpWkpcBz3NYC&rdid=book-WpWkpcBz3NYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.in/books/download/Applied_Language_Learning.epub?id=WpWkpcBz3NYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WpWkpcBz3NYC&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FkvUsgEACAAJ",
+      "etag": "HZMhPcm4gtA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FkvUsgEACAAJ",
+      "volumeInfo": {
+        "title": "Learn Basic Malayalm in Six Weeks",
+        "subtitle": "With Daily Worksheets & Answer Key",
+        "authors": ["John Kunnathu"],
+        "publisher": "CreateSpace",
+        "publishedDate": "2015-06-22",
+        "description": "This is a guide to learn Malayalam as a second language for the speakers of English. Malayalam is the language of Kerala, South India. The material is presented as 42 lessons with worksheets and answer key. The authors, who were language teachers in Africa and in the US for over 25 years, have made use of contemporary knowledge of linguistics and easy-to-follow and effective teaching methods. This guide may be used by all those who want to learn Malayalam, such as the children of Keralites who live abroad, and those who come to Kerala for studies and for employment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "151465136X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781514651360"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FkvUsgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FkvUsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=FkvUsgEACAAJ&dq=malayalam&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=FkvUsgEACAAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learn_Basic_Malayalm_in_Six_Weeks.html?hl=&id=FkvUsgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FkvUsgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book however, fit what I needed. It provides tons of information and a worksheet at the end of the chapters, which is a bonus. This book will help you guide your way into Malayalam, and is one of the best starting points."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VGM-AAAAcAAJ",
+      "etag": "bHoJOdqJrTQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VGM-AAAAcAAJ",
+      "volumeInfo": {
+        "title": "Malayalam selections: with translations, grammatical analyses and vocabulary",
+        "authors": ["Alexander John Arbuthnot"],
+        "publishedDate": "1851",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB10250465"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": ["Malayalam language"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VGM-AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VGM-AAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=VGM-AAAAcAAJ&printsec=frontcover&dq=malayalam&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VGM-AAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VGM-AAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=VGM-AAAAcAAJ&rdid=book-VGM-AAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.in/books/download/Malayalam_selections_with_translations_g.epub?id=VGM-AAAAcAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.in/books/download/Malayalam_selections_with_translations_g.pdf?id=VGM-AAAAcAAJ&hl=&output=pdf&sig=ACfU3U2hBqDXXG3IvVO0Gel2QLZ4sG2E0g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VGM-AAAAcAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H422cDV5qX4C",
+      "etag": "d6W+tYbSI+o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H422cDV5qX4C",
+      "volumeInfo": {
+        "title": "A Grammar of the Malayalam Language in Historical Treatment",
+        "authors": ["Mikhail Sergeevich Andronov"],
+        "publisher": "Otto Harrassowitz Verlag",
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "344703811X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783447038119"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": ["Language Arts & Disciplines"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H422cDV5qX4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H422cDV5qX4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=H422cDV5qX4C&printsec=frontcover&dq=malayalam&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=H422cDV5qX4C&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Grammar_of_the_Malayalam_Language_in_H.html?hl=&id=H422cDV5qX4C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/A_Grammar_of_the_Malayalam_Language_in_H-sample-pdf.acsm?id=H422cDV5qX4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H422cDV5qX4C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cA6YQoVa2ZwC",
+      "etag": "UKqSIGsUxHY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cA6YQoVa2ZwC",
+      "volumeInfo": {
+        "title": "English-Malayalam Dictionary",
+        "authors": ["Tobias Zacharias"],
+        "publisher": "Asian Educational Services",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8120600673"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120600676"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1388,
+        "printType": "BOOK",
+        "categories": ["Foreign Language Study"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cA6YQoVa2ZwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cA6YQoVa2ZwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=cA6YQoVa2ZwC&printsec=frontcover&dq=malayalam&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=cA6YQoVa2ZwC&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/English_Malayalam_Dictionary.html?hl=&id=cA6YQoVa2ZwC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/English_Malayalam_Dictionary-sample-pdf.acsm?id=cA6YQoVa2ZwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cA6YQoVa2ZwC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TGLLQ8_COYkC",
+      "etag": "LQgZdMi/ez0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TGLLQ8_COYkC",
+      "volumeInfo": {
+        "title": "Learner’s Multilingual Dictionary: English-English-Kannada/Malayalam/Tamil/Telugu",
+        "publisher": "Pearson Education India",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8131718735"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131718735"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 600,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TGLLQ8_COYkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TGLLQ8_COYkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=TGLLQ8_COYkC&printsec=frontcover&dq=malayalam&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=TGLLQ8_COYkC&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learner_s_Multilingual_Dictionary_Englis.html?hl=&id=TGLLQ8_COYkC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Learner_s_Multilingual_Dictionary_Englis-sample-pdf.acsm?id=TGLLQ8_COYkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TGLLQ8_COYkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qYdkAAAAMAAJ",
+      "etag": "QnYeIkfv6AU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qYdkAAAAMAAJ",
+      "volumeInfo": {
+        "title": "An Intermediate Course in Malayalam",
+        "authors": ["B. Syamala Kumari"],
+        "publishedDate": "1985",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015018625320"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": ["Malayalam language"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qYdkAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qYdkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=qYdkAAAAMAAJ&q=malayalam&dq=malayalam&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=qYdkAAAAMAAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An_Intermediate_Course_in_Malayalam.html?hl=&id=qYdkAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qYdkAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SvspDwAAQBAJ",
+      "etag": "fQEOtaFvwUY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SvspDwAAQBAJ",
+      "volumeInfo": {
+        "title": "7000+ English - Malayalam Malayalam - English Vocabulary",
+        "authors": ["Jerry Greer"],
+        "publisher": "Soffer Publishing",
+        "description": "\"\"7000+ English - Malayalam Malayalam - English Vocabulary\" - is a list of more than 7000 words translated from English to Malayalam, as well as translated from Malayalam to English.Easy to use- great for tourists and English speakers interested in learning Malayalam. As well as Malayalam speakers interested in learning English.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SvspDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SvspDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=SvspDwAAQBAJ&printsec=frontcover&dq=malayalam&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SvspDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SvspDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 329.67,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 230.77,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SvspDwAAQBAJ&rdid=book-SvspDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 329670000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 230770000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/7000+_English_Malayalam_Malayalam_Englis-sample-epub.acsm?id=SvspDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/7000+_English_Malayalam_Malayalam_Englis-sample-pdf.acsm?id=SvspDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SvspDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;&quot;7000+ English - Malayalam Malayalam - English Vocabulary&quot; - is a list of more than 7000 words translated from English to Malayalam, as well as translated from Malayalam to English.Easy to use- great for tourists and English speakers ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OfvziJjIOikC",
+      "etag": "6lHB/bgQOlg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OfvziJjIOikC",
+      "volumeInfo": {
+        "title": "Parametric Studies in Malayalam Syntax",
+        "authors": ["K. A. Jayaseelan"],
+        "publisher": "Allied Publishers",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8170239443"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788170239444"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": ["Dravidian languages"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OfvziJjIOikC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OfvziJjIOikC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=OfvziJjIOikC&printsec=frontcover&dq=malayalam&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=OfvziJjIOikC&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parametric_Studies_in_Malayalam_Syntax.html?hl=&id=OfvziJjIOikC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Parametric_Studies_in_Malayalam_Syntax-sample-pdf.acsm?id=OfvziJjIOikC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OfvziJjIOikC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nmj9vQEACAAJ",
+      "etag": "23zqefN6yWI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nmj9vQEACAAJ",
+      "volumeInfo": {
+        "title": "Arabi-Malayalam",
+        "subtitle": "Linguistic Cultural Traditions of Mappila Muslims of Kerala",
+        "authors": ["M. H. Ilias", "K. T. Shamshad Hussain"],
+        "publishedDate": "2017",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "812121338X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788121213387"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 199,
+        "printType": "BOOK",
+        "categories": ["Kerala (India)"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=nmj9vQEACAAJ&dq=malayalam&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=nmj9vQEACAAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Arabi_Malayalam.html?hl=&id=nmj9vQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nmj9vQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0UjSDwAAQBAJ",
+      "etag": "Dogsg/g28Zo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0UjSDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Malayalam Verbs",
+        "subtitle": "Functional Structure and Morphosemantics",
+        "authors": ["Amanda Swenson"],
+        "publisher": "Walter de Gruyter GmbH & Co KG",
+        "publishedDate": "2019-09-23",
+        "description": "This book, using Malayalam as a case study, provides an in-depth exploration of how inflectional suffixes should be separated from the verb and the implications this has for the syntax and semantics. Past work has proposed that Malayalam lacks a Tense Phrase and tense morphology, i.e. is ‘tenseless’. However, this book shows that Malayalam behaves differently from other tenseless languages and that it does have tense morphology. It also provides evidence that there is a Tense Phrase in the syntax. In addition, it examines what have been called the two 'imperfectives' and argues that one is a type of progressive, while the other is a pluractional marker and shows that Malayalam lacks perfect morphology and a Perfect Phrase in, minimally, Universal perfects. With respect to finiteness, among other things, it argues that Conjunctive Participles are best analyzed as a type of absolutive adjunct and that -athu ‘gerunds’ involve nominalization above the Tense Phrase-level. This book will be a valuable resource for anyone interested in cross-linguistic variation in Tense-Aspect-Modality and/or the morphosyntax or morphosemantics of Dravidian languages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501510120"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501510126"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 281,
+        "printType": "BOOK",
+        "categories": ["Language Arts & Disciplines"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0UjSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0UjSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0UjSDwAAQBAJ&printsec=frontcover&dq=malayalam&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0UjSDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0UjSDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 12844.94,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 12844.94,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0UjSDwAAQBAJ&rdid=book-0UjSDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 12844940000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 12844940000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Malayalam_Verbs-sample-epub.acsm?id=0UjSDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Malayalam_Verbs-sample-pdf.acsm?id=0UjSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0UjSDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book, using Malayalam as a case study, provides an in-depth exploration of how inflectional suffixes should be separated from the verb and the implications this has for the syntax and semantics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oxr2jwEACAAJ",
+      "etag": "H8nn3flMxZA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oxr2jwEACAAJ",
+      "volumeInfo": {
+        "title": "Malayalam Language",
+        "subtitle": "The Malayalam Phrasebook",
+        "authors": ["Balu Alchari"],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2016-05-22",
+        "description": "This guide to Malayalam language collects the most common Malayalam phrases and expressions as well as an English-Malayalam/Malayalam-English dictionary. This phrasebook includes greetings, food items, directions, sightseeing and many other categories of expressions that will help anyone wanting to learn Malayalam. All of the expressions are transliterated in English with labeled stress enabling any English speaker to pronounce the words with reasonable accuracy. Native Malayalam spelling is also included. This phrasebook is a must for anyone wanting to learn Malayalam.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "153339377X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781533393777"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 138,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oxr2jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oxr2jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=oxr2jwEACAAJ&dq=malayalam&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=oxr2jwEACAAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Malayalam_Language.html?hl=&id=oxr2jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oxr2jwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This guide to Malayalam language collects the most common Malayalam phrases and expressions as well as an English-Malayalam/Malayalam-English dictionary."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jNotCwAAQBAJ",
+      "etag": "r0hLgNFV0I4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jNotCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Wind Flowers",
+        "subtitle": "Contemporary Malayalam Short Fiction",
+        "authors": ["V Abdulla"],
+        "publisher": "Penguin UK",
+        "publishedDate": "2004-09-20",
+        "description": "A classic collection of stories showcasing some of India's best-known writers After a hesitant start towards the end of the ninetheenth century, short fiction in Malyalam came into its own in the 1930s. Since then, writer has experimented with content , style and language to give the genre a unique standing in contemporary Indian litereature as perhaps the most translated, not just into English and other Indian languages but also into other media such as flim and televison. From Vaikom Muhammed Basheer and O.. Vijayan to Kamamla Das and Sarah Joesph, this volume brings together an extraordinary range of writers and themes. There are among others, M.T. Vasudevan Mair's ' Oppol', a story about childhood innoccence and loss, which was made into award-winning flim, Paul Zacharia's 'Bhaskara Pattelar and my Life' a brilliant psychological examination of the master-slave dialectic; Lalithambika Antherjanam's path-breaking 'Goddess of Revenge' in which a young Namboodiri woman becomes a prostitute to expose the hypocrisy of her husband and their rigidly orthodox community; and N.S. Madhavan's classic story of an upper-caste widowwho finds redemption in the forbidden touch of a Pulaya. Translated with flair and integrity, these stories capture the vibrancy of a literary culture at its creative best.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789352141852"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9352141857"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": ["Language Arts & Disciplines"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jNotCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jNotCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=jNotCwAAQBAJ&printsec=frontcover&dq=malayalam&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jNotCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jNotCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 295,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 206.5,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jNotCwAAQBAJ&rdid=book-jNotCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 295000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 206500000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Wind_Flowers-sample-epub.acsm?id=jNotCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jNotCwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Translated with flair and integrity, these stories capture the vibrancy of a literary culture at its creative best."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6LO1tAEACAAJ",
+      "etag": "zB+LGqh64Pg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6LO1tAEACAAJ",
+      "volumeInfo": {
+        "title": "English / Malayalam Dictionary",
+        "authors": ["John C. Rigdon"],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2017-09-06",
+        "description": "Malayalam is spoken by approximately 38 million people in India, predominantly in the state of Kerala. It ranks # 29 in the top 100 languages. The term 'Malayalam' as referring to the language of Kerala is of comparatively recent origin. To begin with, it denoted the land itself. It is probable that the term is the result of a combination of two words, mala meaning mountain and alam meaning the land or locality (which lies along side the mountain). Subsequently the synonyms Malayanma and Malayayma came into being as denoting the language of the Malayalam county and finally the name of the land itself was taken over as the name of its language. Malayalam is one of the 22 scheduled languages of India and was designated as a Classical Language in India in 2013. It has official language status in the state of Kerala and in the union territories of Lakshadweep and Puducherry. Malayalam is also spoken in the neighbouring states of Tamil Nadu and Karnataka; with significant speakers in the Nilgiris, Kanyakumari and Coimbatore districts of Tamil Nadu, and Dakshina Kannada of Karnataka. Malayalam serves as a gateway language on certain islands, including the Mahl-dominated Minicoy Island. Malayalam has incorporated many elements from other languages over the years, the most notable being Sanskrit and later, English. According to Sooranad Kunjan Pillai who compiled the authoritative Malayalam lexicon, the other principal languages whose vocabulary was incorporated over the ages were Pali, Prakrit, Urdu, Hindi, Chinese, Arabic, Syriac, Dutch and Portuguese. This dictionary is extracted from our Words R Us system, a derivative of WordNet. English Wordnet, originally created by Princeton University is a lexical database for the English language. It groups words in English into sets of synonyms called synsets, provides brief definitions and usage examples, and records a series of relationships between these sets of synonyms. WordNet can be viewed as both a combination of dictionary and thesaurus. This dictionary will be indispensable for any international company doing business in areas where Malayalam is spoken. For pronunciation and definitions of the words in this book, see our website at http: //www.wordsrus.info",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1976113563"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781976113567"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6LO1tAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6LO1tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=6LO1tAEACAAJ&dq=malayalam&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=6LO1tAEACAAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/English_Malayalam_Dictionary.html?hl=&id=6LO1tAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6LO1tAEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This dictionary will be indispensable for any international company doing business in areas where Malayalam is spoken. For pronunciation and definitions of the words in this book, see our website at http: //www.wordsrus.info"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FrO5AAAAIAAJ",
+      "etag": "bH4t6HUqLbI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FrO5AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Bhaskara Patellar and Other Stories",
+        "subtitle": "Translated from Malayalam",
+        "authors": ["Sakkar̲iya"],
+        "publisher": "Manas",
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4220586"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": ["Short stories, English"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FrO5AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FrO5AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=FrO5AAAAIAAJ&q=malayalam&dq=malayalam&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=FrO5AAAAIAAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bhaskara_Patellar_and_Other_Stories.html?hl=&id=FrO5AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FrO5AAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MZqqyxVkufQC",
+      "etag": "BT7mVuNcWLM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MZqqyxVkufQC",
+      "volumeInfo": {
+        "title": "Western Influence On Malayalam Language And Literature",
+        "authors": ["K. M. George"],
+        "publisher": "Sahitya Akademi",
+        "publishedDate": "1998",
+        "description": "ý......Dr. GeorgeýS Comprehensive Study Is Thus Valuable, Not Only For Throwing A Revealing Light On The Immediate Subject, But Also For Its Relevance To The Wider Subject Of Western Influence On India As A Whole....It Is Only After Inquiries Have Been Conducted In Depth, Like Dr. GeorgeýS Covering The Whole Country And All The Divers Aspects Of The Problem That Anything Like A Definitive Picture For All India Can Be Expected To Emerge. But Even By Itself, Dr. GeorgeýS Study Has An Importance Transcending Malayalam Language And Literature Or The Life And Culture Of The People Of Kerala.....ý",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8126004134"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788126004133"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.13.8.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MZqqyxVkufQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MZqqyxVkufQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=MZqqyxVkufQC&printsec=frontcover&dq=malayalam&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=MZqqyxVkufQC&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Western_Influence_On_Malayalam_Language.html?hl=&id=MZqqyxVkufQC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Western_Influence_On_Malayalam_Language-sample-pdf.acsm?id=MZqqyxVkufQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MZqqyxVkufQC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ý......Dr. GeorgeýS Comprehensive Study Is Thus Valuable, Not Only For Throwing A Revealing Light On The Immediate Subject, But Also For Its Relevance To The Wider Subject Of Western Influence On India As A Whole."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MrvuMgEACAAJ",
+      "etag": "CHCh9ud6jFY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MrvuMgEACAAJ",
+      "volumeInfo": {
+        "title": "A Malayalam and English School-Dictionary, Etc",
+        "authors": ["MALAYALAM AND ENGLISH SCHOOL-DICTIONARY."],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:561542379"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 373,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=MrvuMgEACAAJ&dq=malayalam&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=MrvuMgEACAAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Malayalam_and_English_School_Dictionar.html?hl=&id=MrvuMgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MrvuMgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HPiKZwEACAAJ",
+      "etag": "TuMUNXfcXKw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HPiKZwEACAAJ",
+      "volumeInfo": {
+        "title": "Malayalam-English/English-Malayalam Dictionary and Phrasebook",
+        "authors": ["Vasala Menon"],
+        "publisher": "Hippocrene Books",
+        "publishedDate": "2015",
+        "description": "One of India's 22 state-recognized languages and the official language of the state of Kerala, Malayalam is spoken by 36 million people worldwide. The most up-to-date Malayalam guide available, this guide allows English speakers to communicate with helpful phonetics alongside the native script. The dictionary contains important terms related to transportation, everyday necessities, and local culture, while the phrasebook covers everything from food and lodging to bargaining and medical visits. This pocket-sized reference includes everything that a traveler needs to be understood when visiting south India. Includes: 4,000 dictionary entries; a concise guide to Malayalam grammar and pronunciation; and useful notes on history and culture throughout.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0781811864"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780781811866"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Foreign Language Study"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HPiKZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HPiKZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=HPiKZwEACAAJ&dq=malayalam&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=HPiKZwEACAAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Malayalam_English_English_Malayalam_Dict.html?hl=&id=HPiKZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HPiKZwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This pocket-sized reference includes everything that a traveler needs to be understood when visiting Kerala in South India."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Sp9gghQMZCMC",
+      "etag": "yIIyiCgJ5Zg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Sp9gghQMZCMC",
+      "volumeInfo": {
+        "title": "A Progressive Grammar of the Malayalam Language",
+        "authors": ["L. Johannes Frohnmeyer"],
+        "publisher": "Asian Educational Services",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8120600681"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120600683"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": ["Foreign Language Study"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.8.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Sp9gghQMZCMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Sp9gghQMZCMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Sp9gghQMZCMC&printsec=frontcover&dq=malayalam&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Sp9gghQMZCMC&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Progressive_Grammar_of_the_Malayalam_L.html?hl=&id=Sp9gghQMZCMC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/A_Progressive_Grammar_of_the_Malayalam_L-sample-pdf.acsm?id=Sp9gghQMZCMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Sp9gghQMZCMC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j7Y7SLM90J4C",
+      "etag": "zyUOcEAeKD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j7Y7SLM90J4C",
+      "volumeInfo": {
+        "title": "A Catechism of Malayalam Grammar",
+        "authors": ["Hermann Gundert"],
+        "publishedDate": "1870",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UBBE:UBBE-00130133"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 328,
+        "printType": "BOOK",
+        "categories": ["Malayalam language"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j7Y7SLM90J4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j7Y7SLM90J4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=j7Y7SLM90J4C&printsec=frontcover&dq=malayalam&hl=&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=j7Y7SLM90J4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=j7Y7SLM90J4C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=j7Y7SLM90J4C&rdid=book-j7Y7SLM90J4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.in/books/download/A_Catechism_of_Malayalam_Grammar.epub?id=j7Y7SLM90J4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j7Y7SLM90J4C&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ESPKDwAAQBAJ",
+      "etag": "OTrRe5FhkAU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ESPKDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Technology & Society - Malayalam",
+        "authors": ["R.V.G. Menon"],
+        "publisher": "Pearson Education India",
+        "description": "Technology & Society - Malayalam",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789353944292"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9353944295"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ESPKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ESPKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.co.in/books?id=ESPKDwAAQBAJ&printsec=frontcover&dq=malayalam&hl=&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ESPKDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ESPKDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 135.7,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 135.7,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ESPKDwAAQBAJ&rdid=book-ESPKDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 135700000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 135700000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Technology_Society_Malayalam-sample-pdf.acsm?id=ESPKDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ESPKDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Technology &amp; Society - Malayalam"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vX9Vk95OqNoC",
+      "etag": "BZY5PvUvi2g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vX9Vk95OqNoC",
+      "volumeInfo": {
+        "title": "Malayalam Self-taught by the Natural Method with Phonetic Pronunciation (Thimm's System)",
+        "authors": ["Don M. de Z. Wickremasinghe", "T. N. Menon (B.A.)"],
+        "publisher": "Asian Educational Services",
+        "publishedDate": "2005",
+        "description": "Having Regard To The Needs Of Students Who Work Without A Teacher, Some Paper Are Devoted Wholly To The Subject Of Pronunciation, Translitertion Of All Malayalam Words In The Grammar Section Are Given And The Correct Pronunciation Of Every Malayalam Word Is Indicated In The Third Column Of Each Transliterated Paper.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "812061903X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120619036"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": ["Malayalam language"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vX9Vk95OqNoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vX9Vk95OqNoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=vX9Vk95OqNoC&printsec=frontcover&dq=malayalam&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=vX9Vk95OqNoC&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Malayalam_Self_taught_by_the_Natural_Met.html?hl=&id=vX9Vk95OqNoC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Malayalam_Self_taught_by_the_Natural_Met-sample-pdf.acsm?id=vX9Vk95OqNoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vX9Vk95OqNoC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Having Regard To The Needs Of Students Who Work Without A Teacher, Some Paper Are Devoted Wholly To The Subject Of Pronunciation, Translitertion Of All Malayalam Words In The Grammar Section Are Given And The Correct Pronunciation Of Every ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UyROPgAACAAJ",
+      "etag": "8DNm2oX8+60",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UyROPgAACAAJ",
+      "volumeInfo": {
+        "title": "A Malayalam and English Dictionary",
+        "authors": ["Hermann Gundert"],
+        "publishedDate": "2004-11-30",
+        "description": "Dimensions: 2.5 x 6.0 x 9.0 inches",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8120604407"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120604407"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1116,
+        "printType": "BOOK",
+        "categories": ["Foreign Language Study"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=UyROPgAACAAJ&dq=malayalam&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=UyROPgAACAAJ&dq=malayalam&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Malayalam_and_English_Dictionary.html?hl=&id=UyROPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UyROPgAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+
+    {
+      "kind": "books#volume",
+      "id": "Jn8rAQAAMAAJ",
+      "etag": "WnWY5bF6JpY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jn8rAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Poetic Medicine",
+        "subtitle": "The Healing Art of Poem-Making",
+        "authors": ["John Fox"],
+        "publisher": "TarcherPerigee",
+        "publishedDate": "1997-10-13",
+        "description": "Poems and commentary by both unknown and famous poets reveal how people from all walks of life have used poem-making to explore matters of concern to us all.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000049312409"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": ["Language Arts & Disciplines"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jn8rAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jn8rAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Jn8rAQAAMAAJ&q=Poem&dq=Poem&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Jn8rAQAAMAAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poetic_Medicine.html?hl=&id=Jn8rAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jn8rAQAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Powerful and exciting, Poetic Medicine illustrates the unique role that poem-making can have in addressing the situations that lead us to renewal in our lives."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U9LbAgAAQBAJ",
+      "etag": "xtoTYJ7dyx8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U9LbAgAAQBAJ",
+      "volumeInfo": {
+        "title": "If I Ran the School",
+        "subtitle": "24 funny school poems",
+        "authors": ["Bruce Lansky"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2014-04-08",
+        "description": "If you’ve ever considered playing sick, had a hard time getting started on your homework, thought your teacher was on your case, or wondered how many days were left until summer vacation, this collection of funny school poems is for you. Homework Would Be Fun… If Your Teacher Assigned This Book as Required Reading! — If you’ve ever considered playing sick, had a hard time getting started on your homework, thought your teacher was on your case, or wondered how many days were left until summer vacation, this collection of funny school poems is for you. Bruce Lansky has written five new poems for this book and selected nineteen others from some of his favorite poets, including Kenn Nesbitt, Ted Scheu, and Robert Pottle.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781481412278"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1481412272"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U9LbAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U9LbAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=U9LbAgAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=U9LbAgAAQBAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/If_I_Ran_the_School.html?hl=&id=U9LbAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/If_I_Ran_the_School-sample-epub.acsm?id=U9LbAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=U9LbAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you’ve ever considered playing sick, had a hard time getting started on your homework, thought your teacher was on your case, or wondered how many days were left until summer vacation, this collection of funny school poems is for you."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1fKXAAAAQBAJ",
+      "etag": "8fPUn6EoaAw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1fKXAAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Veiled Suite",
+        "subtitle": "The Collected Poems",
+        "authors": ["Agha Shahid Ali"],
+        "publisher": "Penguin UK",
+        "publishedDate": "2010-02-18",
+        "description": "Blended with the intricacies of European and Urdu traditional cultures, the poetic works of Agha Shahid Ali had the power to transform the ordinary into something extraordinary. The Veiled Suite: The Collected Poems is an anthology of his life works that spans to thirty years of his career as a poet and six successful volumes that he had the chance to publish during his lifetime. This book opens with his last poetic composition The Veiled Suite: The Collected Poems, a canzone, which was published posthumously. He had penned this poem a year prior to his death. This book contains some of his famous poems like Postcard from Kashmir, A Lost Memory of Delhi, Snowmen, Cracked Portraits, Story of a Silence, Poets on Bathroom Walls, Now No Longer Little, Medusa, The Blessed Word: A prologue, Some Visions of the World Cashmere, New Delhi Airport, I have Loved, and many more remarkable poems. From his early works to his mature translations of Ghazals, the readers can evidently see his progression from his directly descriptive poetic works to the dynamic and stratified compositions of his later collections in this book. This is the underlying factor that adds to make The Veiled Suite: The Collected Poems, the ultimate book for his fans.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789351182535"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9351182533"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": ["Poetry"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1fKXAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1fKXAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=1fKXAAAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1fKXAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1fKXAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 339,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 237.3,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1fKXAAAAQBAJ&rdid=book-1fKXAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 339000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 237300000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/The_Veiled_Suite-sample-epub.acsm?id=1fKXAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1fKXAAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the underlying factor that adds to make The Veiled Suite: The Collected Poems, the ultimate book for his fans."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CYpghJM6W7sC",
+      "etag": "5IIARh10gys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CYpghJM6W7sC",
+      "volumeInfo": {
+        "title": "Poetry 180",
+        "subtitle": "A Turning Back to Poetry",
+        "authors": ["Billy Collins"],
+        "publisher": "Random House Trade Paperbacks",
+        "publishedDate": "2003",
+        "description": "A dazzling new anthology of 180 contemporary poems, selected and introduced by America’s Poet Laureate, Billy Collins. Inspired by Billy Collins’s poem-a-day program with the Library of Congress, Poetry 180 is the perfect anthology for readers who appreciate engaging, thoughtful poems that are an immediate pleasure. A 180-degree turn implies a turning back—in this case, to poetry. A collection of 180 poems by the most exciting poets at work today, Poetry 180 represents the richness and diversity of the form, and is designed to beckon readers with a selection of poems that are impossible not to love at first glance. Open the anthology to any page and discover a new poem to cherish, or savor all the poems, one at a time, to feel the full measure of contemporary poetry’s vibrance and abundance. With poems by Catherine Bowman, Lucille Clifton, Billy Collins, Dana Gioia, Edward Hirsch, Galway Kinnell, Kenneth Koch, Philip Levine, Thomas Lux, William Matthews, Frances Mayes, Paul Muldoon, Naomi Shihab Nye, Sharon Olds, Katha Pollitt, Mary Jo Salter, Charles Simic, David Wojahn, Paul Zimmer, and many more.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0812968875"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812968873"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": ["Poetry"],
+        "averageRating": 4.5,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CYpghJM6W7sC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CYpghJM6W7sC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=CYpghJM6W7sC&q=Poem&dq=Poem&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=CYpghJM6W7sC&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poetry_180.html?hl=&id=CYpghJM6W7sC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CYpghJM6W7sC&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Inspired by Billy Collins’s poem-a-day program with the Library of Congress, Poetry 180 is the perfect anthology for readers who appreciate engaging, thoughtful poems that are an immediate pleasure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_b86DwAAQBAJ",
+      "etag": "DRdxmt6pa/0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_b86DwAAQBAJ",
+      "volumeInfo": {
+        "title": "How Poems Get Made",
+        "authors": ["James Longenbach"],
+        "publisher": "W. W. Norton & Company",
+        "publishedDate": "2018-08-28",
+        "description": "A comprehensive guide to writing or reading poetry, by “one of our most lucid and important critics” (American Academy of Arts and Letters). Why does a great lyric poem ask to be reread, even after we know it by heart? In How Poems Get Made, acclaimed poet and critic James Longenbach answers this question by discussing a wide range of exemplary poems, from Shakespeare through Blake, Dickinson, and Moore, to a variety of poets making poems today. In each chapter of How Poems Get Made, Longenbach examines a specific aspect of the poetic medium—including Diction, Syntax, Rhythm, Echo, Figure, and Tone—and shows how a poet may manipulate these most basic elements to bring a poem to life.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780393355215"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0393355217"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": ["Language Arts & Disciplines"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_b86DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_b86DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=_b86DwAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_b86DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_b86DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1557.21,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 1557.21,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_b86DwAAQBAJ&rdid=book-_b86DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1557210000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1557210000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/How_Poems_Get_Made-sample-epub.acsm?id=_b86DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_b86DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In How Poems Get Made, acclaimed poet and critic James Longenbach answers this question by discussing a wide range of exemplary poems, from Shakespeare through Blake, Dickinson, and Moore, to a variety of poets making poems today."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B6JAARpII50C",
+      "etag": "FYsi92uCN5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B6JAARpII50C",
+      "volumeInfo": {
+        "title": "Carrots to Cupcakes: Reading, Writing and Reciting Poems about Food",
+        "subtitle": "Reading, Writing and Reciting Poems about Food",
+        "authors": ["Susan M. Freese"],
+        "publisher": "ABDO",
+        "publishedDate": "2008-01-01",
+        "description": "This title includes over twelve poems by known poets like Bobbi Katz, Kenn Nesbitt, and Jack Prelutsky to name a few. Young readers will enjoy the vivid illustrations and the engaging poems all about food. There are sidebars to every poem explaining terminology such as narrative, catalog, repetition, and sound devices. This title also gives ideas on how to keep a poetry journal, put on a poetry reading and research other poets and poems to learn more!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781617146329"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1617146323"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": ["Juvenile Nonfiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B6JAARpII50C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B6JAARpII50C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=B6JAARpII50C&printsec=frontcover&dq=Poem&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B6JAARpII50C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B6JAARpII50C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2642.8,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 2642.8,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=B6JAARpII50C&rdid=book-B6JAARpII50C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2642800000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2642800000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Carrots_to_Cupcakes_Reading_Writing_and-sample-pdf.acsm?id=B6JAARpII50C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B6JAARpII50C&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This title includes over twelve poems by known poets like Bobbi Katz, Kenn Nesbitt, and Jack Prelutsky to name a few."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7k3BDwAAQBAJ",
+      "etag": "hjQomFPaAxg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7k3BDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Set Me On Fire",
+        "subtitle": "A Poem For Every Feeling",
+        "authors": ["Ella Risbridger"],
+        "publisher": "Random House",
+        "publishedDate": "2019-12-05",
+        "description": "'Broad in scope, generous in spirit and wittily accompanied by Risbridger's commentary' Sarah Perry, author of The Essex Serpent Set Me On Fire is an anthology for a new moment in poetry: a collection of fresh, vibrant voices from poets all over the globe, both living and dead. With an intuitive, accessible, feelings-first format, these are poems for the moments when you really need to know that someone else has been there too. These are poems about eating and kissing and having too many feelings, about being outside and inside and loving someone so much you think you might die. They are about break-ups and getting back together and oh-god-it's-complicated-don't-ask-me moments. They are about wanting and waiting and having, about grieving and life after death and the end of the world. They are, in other words, about being alive.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473579545"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1473579546"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": ["Poetry"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7k3BDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7k3BDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=7k3BDwAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7k3BDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7k3BDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 618.61,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 309.3,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7k3BDwAAQBAJ&rdid=book-7k3BDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 618610000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 309300000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Set_Me_On_Fire-sample-epub.acsm?id=7k3BDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7k3BDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These are poems about eating and kissing and having too many feelings, about being outside and inside and loving someone so much you think you might die."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1s4ECwAAQBAJ",
+      "etag": "33lkvUtYen8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1s4ECwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Power Within A Poem Book 8",
+        "authors": ["Alliance Poets World-Wide"],
+        "publisher": "Lulu.com",
+        "publishedDate": "2015-11-17",
+        "description": "This is the eighth book in the Power Within a Poem Series which is once again the wonderful accumulation of poetic responses by the featured Poets who responded weekly to the great challenges set by Erich J. Goller aka P.F.P. Challenge Master Poet Vienna. Just like all the previous books this one is also A very good read for poetry lovers of all ages...With a great variety of subjects and themes that portray all the emotions that we experience in life, so sit back read relate and enjoy this very special book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781329672048"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1329672046"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": ["Poetry"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1s4ECwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1s4ECwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=1s4ECwAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=1s4ECwAAQBAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Power_Within_A_Poem_Book_8.html?hl=&id=1s4ECwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/The_Power_Within_A_Poem_Book_8-sample-pdf.acsm?id=1s4ECwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1s4ECwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the eighth book in the Power Within a Poem Series which is once again the wonderful accumulation of poetic responses by the featured Poets who responded weekly to the great challenges set by Erich J. Goller aka P.F.P. Challenge ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YHCUxgEACAAJ",
+      "etag": "rqyTYF8Rejw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YHCUxgEACAAJ",
+      "volumeInfo": {
+        "title": "Explosion at the Poem Factory",
+        "authors": ["Kyle Lukoff"],
+        "publishedDate": "2020",
+        "description": "A funny story, full of wordplay, brings poetry alive as never before! Kilmer Watts makes his living teaching piano lessons, but when automatic pianos arrive in town, he realizes he's out of a job. He spots a \"Help Wanted\" sign at the poem factory and decides to investigate -- he's always been curious about how poems are made. The foreman explains that machines and assembly lines are used for poetry these days. So Kilmer learns how to operate the \"meter meter\" and empty the \"cliché bins.\" He assembles a poem by picking out a rhyme scheme, sprinkling in some similes and adding alliteration. But one day the machines malfunction, and there is a dramatic explosion at the poem factory. How will poetry ever survive? Kyle Lukoff's funny story, rich in wordplay, is complemented by Mark Hoffmann's lively, quirky art. The backmatter includes definitions of poetic feet, types of poems (with illustrated examples) and a glossary of other terms. An author's note explains the inspiration for the story. Key Text Features definitions glossary author's note Correlates to the Common Core State Standards in English Language Arts: CCSS.ELA-LITERACY.RL.2.4 Describe how words and phrases (e.g., regular beats, alliteration, rhymes, repeated lines) supply rhythm and meaning in a story, poem, or song.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1773061321"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781773061320"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YHCUxgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YHCUxgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=YHCUxgEACAAJ&dq=Poem&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=YHCUxgEACAAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Explosion_at_the_Poem_Factory.html?hl=&id=YHCUxgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YHCUxgEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The backmatter includes definitions of poetic feet, types of poems (with illustrated examples) and a glossary of other terms. An author&#39;s note explains the inspiration for the story."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KUnmBwAAQBAJ",
+      "etag": "1NABLZ93P7I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KUnmBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Voyage - The Poetic Underground #2",
+        "authors": ["Erin Hanson"],
+        "publisher": "Lulu.com",
+        "publishedDate": "2014-11-02",
+        "description": "Book 2 of poems by Erin Hanson (thepoeticunderground.com) including poems written from January 2014 - November 2014",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781326060800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1326060805"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": ["Australian poetry"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KUnmBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KUnmBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=KUnmBwAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=KUnmBwAAQBAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Voyage_The_Poetic_Underground_2.html?hl=&id=KUnmBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Voyage_The_Poetic_Underground_2-sample-pdf.acsm?id=KUnmBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KUnmBwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Book 2 of poems by Erin Hanson (thepoeticunderground.com) including poems written from January 2014 - November 2014"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bNM0DwAAQBAJ",
+      "etag": "AM8uF1jZgso",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bNM0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Light Filters In: Poems",
+        "authors": ["Caroline Kaufman"],
+        "publisher": "HarperCollins",
+        "publishedDate": "2018-05-22",
+        "description": "In the vein of poetry collections like Milk and Honey and Adultolescence, this compilation of short, powerful poems from teen Instagram sensation @poeticpoison perfectly captures the human experience. In Light Filters In, Caroline Kaufman—known as @poeticpoison—does what she does best: reflects our own experiences back at us and makes us feel less alone, one exquisite and insightful piece at a time. She writes about giving up too much of yourself to someone else, not fitting in, endlessly Googling “how to be happy,” and ultimately figuring out who you are. This collection features completely new material plus some fan favorites from Caroline's account. Filled with haunting, spare pieces of original art, Light Filters In will thrill existing fans and newcomers alike. it’s okay if some things are always out of reach. if you could carry all the stars in the palm of your hand, they wouldn’t be half as breathtaking",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062844699"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0062844695"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": ["Young Adult Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bNM0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bNM0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=bNM0DwAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bNM0DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bNM0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 766.2,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 383.1,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bNM0DwAAQBAJ&rdid=book-bNM0DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 766200000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 383100000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Light_Filters_In_Poems-sample-epub.acsm?id=bNM0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bNM0DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the vein of poetry collections like Milk and Honey and Adultolescence, this compilation of short, powerful poems from teen Instagram sensation @poeticpoison perfectly captures the human experience."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DNtbAAAAQAAJ",
+      "etag": "hCMim7bKcR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DNtbAAAAQAAJ",
+      "volumeInfo": {
+        "title": "The Battle of the Sexes",
+        "subtitle": "A Poem",
+        "authors": ["Samuel Wesley"],
+        "publishedDate": "1723",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:N11718966"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 38,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DNtbAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DNtbAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=DNtbAAAAQAAJ&printsec=frontcover&dq=Poem&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DNtbAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DNtbAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=DNtbAAAAQAAJ&rdid=book-DNtbAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.in/books/download/The_Battle_of_the_Sexes.epub?id=DNtbAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.co.in/books/download/The_Battle_of_the_Sexes.pdf?id=DNtbAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1IjkKReDqDn35OnTL8FXb14NdB5w&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DNtbAAAAQAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LujWAgAAQBAJ",
+      "etag": "gLqRfLZXF2g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LujWAgAAQBAJ",
+      "volumeInfo": {
+        "title": "100 Poems from the Japanese",
+        "publisher": "New Directions Publishing",
+        "publishedDate": "1955-06-17",
+        "description": "It is remarkable that any Westerner—even so fine a poet as Kenneth Rexroth—could have captured in translation so much of the subtle essence of classic Japanese poetry: the depth of controlled passion, the austere elegance of style, the compressed richness of imagery. The poems are drawn chiefly from the traditional Manyoshu, Kokinshu and Hyakunin Isshu collections, but there are also examplaes of haiku and other later forms. The sound of the Japanese texts i reproduced in Romaji script and the names of the poets in the calligraphy of Ukai Uchiyama. The translator's introduction gives us basic background on the history and nature of Japanese poetry, which is supplemented by notes on the individual poets and an extensive bibliography.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780811223782"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0811223787"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": ["Poetry"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LujWAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LujWAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=LujWAgAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LujWAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LujWAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1459.58,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 729.79,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LujWAgAAQBAJ&rdid=book-LujWAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1459580000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 729790000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/100_Poems_from_the_Japanese-sample-epub.acsm?id=LujWAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/100_Poems_from_the_Japanese-sample-pdf.acsm?id=LujWAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LujWAgAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The sound of the Japanese texts i reproduced in Romaji script and the names of the poets in the calligraphy of Ukai Uchiyama."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J8pEDwAAQBAJ",
+      "etag": "pMNSdb83RZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J8pEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Miles of Smiles",
+        "subtitle": "A Collection of Laugh-Out-Loud Poems",
+        "authors": ["Bruce Lansky"],
+        "publisher": "Hachette UK",
+        "publishedDate": "2015-02-24",
+        "description": "You'll Find a Smile on Every Page of this Book! Thousands of elementary-school students helped Bruce Lansky, \"The King of Giggle Poetry,\" pick the poems by Kenn Nesbitt, Joyce Armor, Joan Horton, Eric Ode, Dave Crawley, Ted Scheu, and other poets included in this book. If these poems don't put a smile on your face, Stephen Carpenter's hilarious illustrations surely will!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476768519"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "147676851X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": ["Juvenile Nonfiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J8pEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J8pEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=J8pEDwAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=J8pEDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=J8pEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 574.38,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 287.19,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=J8pEDwAAQBAJ&rdid=book-J8pEDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 574380000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 287190000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Miles_of_Smiles-sample-epub.acsm?id=J8pEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=J8pEDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You&#39;ll Find a Smile on Every Page of this Book!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mCYtDwAAQBAJ",
+      "etag": "gWYQOKQ/klo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mCYtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "I Want to Be a Poem",
+        "subtitle": "An Enchanting Journey",
+        "authors": ["Safi"],
+        "publisher": "Partridge Publishing",
+        "publishedDate": "2017-07-10",
+        "description": "I Want to be a Poem, An Enchanted Journey is a good mix of subtle reflection of thoughts and emotional outpour, an echo of human feelings and emotions; an attempt to traverse through the maze of unfathomable universe; experience the peak of imagination and the intensity of love and passion.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781543700473"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1543700470"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 62,
+        "printType": "BOOK",
+        "categories": ["Poetry"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mCYtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mCYtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=mCYtDwAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mCYtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mCYtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 199.42,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 139.59,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mCYtDwAAQBAJ&rdid=book-mCYtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 199420000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 139590000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mCYtDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I Want to be a Poem, An Enchanted Journey is a good mix of subtle reflection of thoughts and emotional outpour, an echo of human feelings and emotions; an attempt to traverse through the maze of unfathomable universe; experience the peak of ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TadlAAAAMAAJ",
+      "etag": "LflcjOTygrI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TadlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Poem",
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015068970410"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": ["American poetry"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TadlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TadlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=TadlAAAAMAAJ&q=Poem&dq=Poem&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=TadlAAAAMAAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poem.html?hl=&id=TadlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TadlAAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ROBERT GREY has <b>poems</b> in Hollins Critic, Kansas Quarterly, <b>POEM</b>, Sou&#39;wester, and other magazines. He edits Southern Poetry Review and is co-editor of White Trash: An Anthology of Contemporary Poetry. WALTER GRIFFIN has over three&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "safXzQEACAAJ",
+      "etag": "+iPlywwcSTY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/safXzQEACAAJ",
+      "volumeInfo": {
+        "title": "I Know I Don't Know",
+        "authors": ["Sonali Sharma"],
+        "publishedDate": "2020-08-25",
+        "description": "about the book, i know i don't know, is a journey through self doubt to self love. it's a poetry collection for hearts that have found love or lost it. it's for heads that dream and souls that shine. it's for people who believe in magic. for people who have healed and for those who are trying to heaL about the author, sonali sharma is twenty two, she writes poetry and she dreams.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9798670516174"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 183,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=safXzQEACAAJ&dq=Poem&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=safXzQEACAAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_Know_I_Don_t_Know.html?hl=&id=safXzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=safXzQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "about the book, i know i don&#39;t know, is a journey through self doubt to self love. it&#39;s a poetry collection for hearts that have found love or lost it. it&#39;s for heads that dream and souls that shine. it&#39;s for people who believe in magic. ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p9AMEAAAQBAJ",
+      "etag": "Hhb+kNi/p4I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p9AMEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Reading Old English Biblical Poetry",
+        "subtitle": "The Book and the Poem in Junius 11",
+        "authors": ["Janet Schrunk Ericksen"],
+        "publisher": "University of Toronto Press",
+        "publishedDate": "2020-11-19",
+        "description": "Reading Old English Biblical Poetry considers the Junius 11 manuscript, the only surviving illustrated book of Old English poetry, in terms of its earliest readers and their multiple strategies of reading and making meaning. Junius 11 begins with the creation story and ends with the final vanquishing of Satan by Jesus. The manuscript is both a continuous whole and a collection with discontinuities and functionally independent pieces. The chapters of Reading Old English Biblical Poetry propose multiple models for reader engagement with the texts in this manuscript, including selective and sequential reading, reading in juxtaposition, and reading in contexts within and outside of the pages of Junius 11. The study is framed by particular attention to the materiality of the manuscript and how that might have informed its early reception, and it broadens considerations of reading beyond those of the manuscript's compiler and possible patron. As a book, Junius 11 reflects a rich and varied culture of reading that existed in and beyond houses of God in England in the tenth and eleventh centuries, and it points to readers who had enough experience to select and find wisdom, narrative pleasure, and a diversity of other things within this or any book's contents.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781487507466"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1487507461"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 235,
+        "printType": "BOOK",
+        "categories": ["Literary Criticism"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p9AMEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p9AMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=p9AMEAAAQBAJ&printsec=frontcover&dq=Poem&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=p9AMEAAAQBAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Reading_Old_English_Biblical_Poetry.html?hl=&id=p9AMEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Reading_Old_English_Biblical_Poetry-sample-pdf.acsm?id=p9AMEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p9AMEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The chapters of Reading Old English Biblical Poetry propose multiple models for reader engagement with the texts in this manuscript, including selective and sequential reading, reading in juxtaposition, and reading in contexts within and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BhyREAAAQBAJ",
+      "etag": "TSROjQaKi/E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BhyREAAAQBAJ",
+      "volumeInfo": {
+        "title": "Edna St. Vincent Millay: Selected Poems",
+        "subtitle": "(American Poets Project #1)",
+        "authors": ["Edna St. Vincent Millay"],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2003-01-27",
+        "description": "Praised by poets and critics ranging from A. E. Housman and Thomas Hardy to Edmund Wilson, Edna St. Vincent Millay’s bold, exquisite poems take their place among the enduring verse of the twentieth century Claiming a lyric tradition stretching back to Sappho and Catullus and making it very much her own, Millay won over her contemporaries—and readers ever since—with her passion, erotic candor, formal elegance, and often mischievous wit. J. D. McClatchy's introduction and selections offer new and surprising insights into Millay's achievement. Included are her most beloved and justly admired poems, such as the wry bohemian anthem “Recuerdo” and the sonnet sequence “Fatal Interview”, the poetic record of a love affair that is presented in its entirety. McClatchy has also chosen works that extend our sense of Millay’s range: translations, her play Aria da Capo, and excerpts from her libretto The King’s Henchman. “I have for the most part been guided by my taste for Millay at her tautest and truest,\" writes McClatchy. \"There are precise and resonant images everywhere.” About the American Poets Project Elegantly designed in compact editions, printed on acid-free paper, and textually authoritative, the American Poets Project makes available the full range of the American poetic accomplishment, selected and introduced by today’s most discerning poets and critics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781931082358"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1931082359"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Poetry"],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BhyREAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BhyREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=BhyREAAAQBAJ&dq=Poem&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=BhyREAAAQBAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Edna_St_Vincent_Millay_Selected_Poems.html?hl=&id=BhyREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BhyREAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Praised by poets and critics ranging from A. E. Housman and Thomas Hardy to Edmund Wilson, Edna St. Vincent Millay’s bold, exquisite poems take their place among the enduring verse of the twentieth century Claiming a lyric tradition ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DHaRAAAAIAAJ",
+      "etag": "iwLRguav2DU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DHaRAAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Prose Poem",
+        "subtitle": "An International Anthology",
+        "authors": ["Michael Benedikt"],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSC:32106001704516"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 696,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DHaRAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DHaRAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=DHaRAAAAIAAJ&q=Poem&dq=Poem&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=DHaRAAAAIAAJ&dq=Poem&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Prose_Poem.html?hl=&id=DHaRAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DHaRAAAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With the image-oriented poetry of the 1960&#39;s, the breakthrough towards the prose <b>poem</b> occurred. ... after giving any element of poetry other than those previously stressed (even by so-called free verse <b>poets</b>) an absolute primacy — it is&nbsp;..."
+      }
+    }
+  ]
+

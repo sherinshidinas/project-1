@@ -1,0 +1,106 @@
+.popup {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 99;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.popup h4, .popup p {
+    color: black;
+}
+.popup p {
+    font-size: 12px;
+    margin-bottom: 22px;
+    height: 100px;
+    overflow-y: scroll;
+}
+.popup-content {
+    background-color: #f4f0f0;
+    width: 700px;
+    height: 400px;
+    border-radius: 5px;
+    padding: 20px;
+}
+.popup-close {
+    position: absolute;
+    top: 85px;
+    right: 25px;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    cursor: pointer;
+    transition: all ease 0.3s;
+}
+.popup-close:hover {
+    color: #e42b26;
+}
+.popup button {
+    position: absolute;
+    top: 68.5%;
+    right: 28%;
+    border: none;
+    outline: none;
+    background-color: #e42b26;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    margin-top: 15px;
+    transition: all ease 0.3s;
+}
+.popup button:hover {
+    background-color: black;
+    color: white;
+}
+.popup .popup-middle {
+    position: absolute;
+    top: 152px;
+    left: 510px;
+}
+
+.popup-middle h3{
+    max-width: 400px;
+}
+
+.popup .popup-header {
+    height: 20vh;
+    overflow: hidden;
+    margin-bottom: 15px;
+    position: relative;
+}
+.popup .popup-header img {
+    width: 18vh;
+    height: 120px;
+    border-radius: 6px;
+   
+}
+.popup .dish-ingredients {
+    margin-bottom: 22px;
+    justify-content: start;
+    
+   
+}
+.popup .dish-ingredients li {
+    background-color: #e42b26;
+    padding: 6px 10px;
+    border-radius: 20px;
+    font-size: 10px;
+    margin-right: 5px;
+    list-style: none;
+    color: white;
+}
+
+.pricetag{
+    position: relative;
+}
+
+
+
