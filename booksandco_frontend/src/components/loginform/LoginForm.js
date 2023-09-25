@@ -12,7 +12,7 @@ function SignupForm() {
     const [currentUserName,setCurrentUserName] = useState('')
     const [token,setToken] = useState('')
     const navigate = useNavigate()
-  
+    console.log("token is ",token)
     const handleSubmit=(e)=>{
         e.preventDefault();
 
@@ -24,16 +24,18 @@ function SignupForm() {
           console.log("hlo",response.data)
             if(response.data.status === true){
                 
-                console.log("checking",response.data)
+                
                  
 
              
                 setCurrentUserName(response.data.username)
-                setToken(response.data)
+                setToken(response.data.token)
+                
                 
                 console.log("username checking",response.data.currentUserName)
                 localStorage.setItem('currentUserName',response.data.currentUserName)
-                localStorage.setItem("token",token)
+                localStorage.setItem("token",response.data.token)
+               
                 alert(response.data.message)
                 navigate("/")
                

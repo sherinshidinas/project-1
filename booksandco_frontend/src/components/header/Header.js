@@ -1,8 +1,10 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState,useContext } from "react";
 import "./Header.css";
 import { Link, useNavigate } from "react-router-dom";
+import { dispatchContext } from "../../context/AppProvider";
 
 function Header() {
+  const dispatch=useContext(dispatchContext);
   const [currentUser, setCurrentUser] = useState("");
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const navigate = useNavigate();
@@ -10,7 +12,7 @@ function Header() {
   useEffect(() => {
     const storedUser = localStorage.getItem("currentUserName");
     if (storedUser) {
-      setCurrentUser(storedUser)
+      setCurrentUser(storedUser);
       setIsLoggedIn(true);
     }
   }, []);
@@ -22,6 +24,10 @@ function Header() {
 
   const handleLogout = () => {
     setIsLoggedIn(false);
+    // Clear the authToken and mark the user as not authenticated
+    dispatch({type:"logout"})
+     // Remove the authToken from localStorage
+    localStorage.removeItem("token")
     setCurrentUser(""); //reset the current when use logout
     localStorage.removeItem("currentUserName");
     navigate("/login");
@@ -87,10 +93,14 @@ function Header() {
               <a href="#" className=" text-muted icon ">
                 <i className="fa-solid fa-heart"></i>
               </a>
+              
 
-              <Link to="/cart" className="icon text-muted">
+         {isLoggedIn ? ( <Link to="/cart" className="icon text-muted">
                 <i className="fa fa-fw fa-shopping-cart" />
-              </Link>
+              </Link>):  <Link to="/login" className="icon text-muted">
+                <i className="fa fa-fw fa-shopping-cart" />
+              </Link> }
+             
 
               <li className="nav-item dropdown ">
                 {isLoggedIn ? (
@@ -118,34 +128,27 @@ function Header() {
                     aria-expanded="true"
                   >
                     <i className="fa fa-fw fa-user" />
-                    Login 
+                    Login
                   </Link>
                 )}
 
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                
-                  
-                      <Link className="dropdown-item" href="#action">
-                        Orders
-                      </Link>
-                  
-                      {isLoggedIn ? (
-                      <Link
-                        to="/login"
-                        className="dropdown-item"
-                        onClick={handleLogout}
-                      >
-                        Logout
-                      </Link>
-                    
-                  ) : (
-                    null
-                  )}
+                  <Link className="dropdown-item" href="#action">
+                    Orders
+                  </Link>
+
+                  {isLoggedIn ? (
+                    <Link
+                      to="/login"
+                      className="dropdown-item"
+                      onClick={handleLogout}
+                    >
+                      Logout
+                    </Link>
+                  ) : null}
                 </div>
               </li>
             </div>
-
-           
           </div>
         </nav>
       </header>

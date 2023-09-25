@@ -1,7 +1,7 @@
-import React, { useContext, useEffect, useState } from "react";
-import axios from "axios";
+import React, { useContext, useState } from "react";
+// import axios from "axios";
 import "./Newreleased.css";
-import { DataContext } from "../DataContext";
+import { DataContext } from "../../../../context/DataContext";
 import Popup from "../popup/Popup";
 
 function Newreleased() {
@@ -20,8 +20,8 @@ function Newreleased() {
     setShowPopup(false)
   }
 
-  let newReleasedBooks = AllBooks.filter((item) => {
-    return item.saleInfo.saleability === "FOR_SALE";
+  let newReleasedBooks = AllBooks.filter((item)=>{
+    return item.id 
   }).map((item) => {
     return (
       <div>
@@ -35,9 +35,8 @@ function Newreleased() {
             }}
           />
           {/* <h6>{item.volumeInfo.title}</h6> */}
-          <p>
-            {item.saleInfo.retailPrice["currencyCode"]}{" "}
-            {item.saleInfo.retailPrice["amount"]}
+          <p className="text-center">
+           INR {item.saleInfo.retailPrice["amount"]}
           </p>
           <button className="btn btn-warning">Add to cart</button>
         </li>

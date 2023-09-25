@@ -6,7 +6,7 @@ import Offer from "./offer-post/Offer";
 import Header from '../../header/Header'
 import Footer from '../../footer/Footer'
 import Newreleased from "./new-released/Newreleased";
-import { AllData } from "./DataContext";
+import { AllData } from "../../../context/DataContext";
 import BestSellers from "./BestSellers.js/BestSellers";
 import Loader from "./loader/Loader";
 
