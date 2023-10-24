@@ -14,8 +14,12 @@ section {
 .trending-books-list li button{
     width: 100%; 
     background-color: #e42b26;
+  
 }
 
+/* .trending-books-list.active li button{
+    background-color:  rgb(33, 207, 33);
+} */
 
 
 .trending-books-list li img{

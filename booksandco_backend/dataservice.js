@@ -61,7 +61,7 @@ const login = async (email, password) => {
         currentUser = profile.email;
         currentUserPassword = password; // Store the entered password, not the hashed one
         token = jwt.sign(
-          { currentUserPassword: password , currentUser:currentUser },
+          { currentUserPassword: password, currentUser: currentUser },
           "secretsuperkey123"
         );
 
@@ -99,6 +99,26 @@ const login = async (email, password) => {
   }
 };
 
+// const trendingBooks = async () => {
+//   try {
+//     const bookData = await db.Book.find({}).select('volumeInfo.imageLinks.smallThumbnail saleInfo.retailPrice.amount').limit(12);
+//     return {
+//       status: true,
+//       message: "success",
+//       data: {
+//         bookData,
+//       },
+//       statusCode: 200,
+//     };
+//   } catch (err) {
+//     console.log(err, "from error block");
+//     return {
+//       status: false,
+//       message: "An error occured during login",
+//       statusCode: 500, //Internal server error
+//     };
+//   }
+// };
 const AllBooks = () => {
   return db.Book.find().then((res) => {
     if (res) {
@@ -255,59 +275,105 @@ const updateBook = (
     }
   });
 };
+// ---------------------------------------------------------------------------------------------------------
+// const viewCart  = async (email) =>{
 
-const addToCart = async (productId, email) => {
+//   let cartData;
+//   try {
+//      cartData = await db.User.findOne({email}).populate({
+//       path:"cart.product"
+//      }).select("cart")
+//      console.log(cartData, 'from cartDataa')
+//      return {
+//       status:true,
+//       message:"cart data sent successfully",
+//       statusCode:200,
+//       data:cartData
+//     }
+
+//   } catch (error) {
+//     return {
+//       status:true,
+//       message:"something went wrong while finding user data",
+//       statusCode:400
+//     }
+//   }
+//   // console.log(cartData,'from cart data')
+
+// }
+
+// -------------------------------------------------------------------------------------------
+
+const addingProductToCart = async (id, email) => {
   try {
-    const user = db.User.findOne({ email });
+    const result = await db.Book.findOne({ id: id });
 
-    if (!user) {
+    if (!result) {
       return {
-        status: false,
-        message: "user not found",
+        message: "Product not found",
         statusCode: 404,
       };
     }
 
-    //Check if the product already exists in the user's cart
-    const existingProductIndex = user.cart.findIndex(
-      (item) => item.productId === productId
-    );
-    if (existingProductIndex !== -1) {
+    const user = await db.User.findOne({ email: email });
+
+    if (!user) {
       return {
         status: false,
-        message: "Product Has Already Exists In The Cart",
-        statusCode: 400,
+        message: "User not found",
+        statusCode: 404,
       };
     }
 
-    // If the product is not in the cart, add it
-    user.cart.push({ productId });
+    // Check if the product already exists in the cart
+    const existingProductIndex = user.cart.findIndex(
+      (item) => item.id === result.id
+    );
+
+    if (existingProductIndex !== -1) {
+      // If the product already exists, increment its quantity
+      user.cart[existingProductIndex].quantity += 1;
+    } else {
+      // If the product doesn't exist, add it to the cart
+      user.cart.push({
+        id: result.id, // Use the _id of the Book document
+        quantity:1, // Initial quantity, you can adjust as needed
+        // Add other details if needed
+        image: result.volumeInfo.imageLinks.smallThumbnail,
+        title: result.volumeInfo.title,
+        authors: result.volumeInfo.authors,
+        amount: result.saleInfo.retailPrice.amount,
+      });
+    }
     await user.save();
 
     return {
       status: true,
-      message: "The Product Added To The Cart",
+      message: "Product added to the cart successfully",
       statusCode: 200,
     };
-  } catch (error) {
-    console.log("error adding to the cart", error);
+  } catch (err) {
     return {
       status: false,
-      message: "Error Occured While Adding The Product To The Cart",
+      message: "Error occurred while processing the request",
       statusCode: 500,
     };
   }
 };
 
-const getCart = async (email) => {
-  try {
-    const user =await db.User.findOne({ email });
 
+//to get the cart product
+const getCart = async (email) => {
+  console.log("email", email);
+  try {
+    const user = await db.User.findOne({ email });
+   
     if (!user) {
       return {
         status: false,
         message: "User Not Found",
         statusCode: 404,
+        email: email,
       };
     }
 
@@ -327,6 +393,84 @@ const getCart = async (email) => {
   }
 };
 
+//to remove the cart product
+const removeItemFromCart = async (id, email) => {
+  console.log("email aree", email);
+  try {
+    const user = await db.User.findOne({ email: email });
+
+    if (!user) {
+      return {
+        status: false,
+        message: "User not found",
+        statusCode: 404,
+      };
+    }
+
+    // Fix: Add a return statement to filter correctly
+    user.cart = user.cart.filter((item) => item.id.toString() !== id);
+    await user.save();
+
+    return {
+      status: true,
+      message: "Product removed from the cart successfully",
+      statusCode: 200,
+    };
+  } catch (error) {
+    console.log("Error occurred while removing product from the cart");
+    return {
+      status: false,
+      message:
+        "An error occurred while removing the product from the cart",
+      statusCode: 500,
+    };
+  }
+};
+
+
+const updateQuantityHandler = async (id,quantity,email) => {
+  try {
+    const user= await db.User.findOne({email:email});
+    if(!user){
+      return{
+        status:false,
+        message:"User not found",
+        statusCode:404
+      }
+    }
+
+    const existingProductIndex = user.cart.findIndex((item)=>item.id === id);
+
+    if(existingProductIndex !== -1){
+       // If the product exists in the cart, update its quantity
+       user.cart[existingProductIndex].quantity = quantity
+       await user.save()
+
+       return {
+        status:true,
+        message:"Quantity updated successfully",
+        statusCode:200
+       }
+
+    }else{
+      return {
+        status: false,
+        message: "Product not found in the cart",
+        statusCode: 404,
+      };
+    }
+
+    
+  } catch (error) {
+    console.error("Error updating quantity:", error);
+    return {
+      status: false,
+      message: "An error occurred while updating quantity",
+      statusCode: 500,
+    };
+  }
+}
+
 module.exports = {
   signin,
   login,
@@ -335,6 +479,10 @@ module.exports = {
   deleteBook,
   updateBook,
   getProduct,
-  addToCart,
+  addingProductToCart,
   getCart,
+  removeItemFromCart,
+  updateQuantityHandler
+  // trendingBooks,
+  // viewCart
 };

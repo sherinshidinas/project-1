@@ -28,6 +28,10 @@
     width: 100%;
     background-color: #e42b26;
 }
+
+/* .new-released-list.active button{
+    background-color: rgb(33, 207, 33);
+} */
 .new-released-books ul{
     list-style: none;
 }

@@ -11,8 +11,32 @@ const User = mongoose.model("User", {
   email: String,
   phone: String,
   password: String,
-  cart: []
+  cart:[
+    {
+      id:String,
+      quantity: {
+        type: Number,
+        default: 1, // You can set a default quantity if needed
+      },
+      image: String, // Add other details if needed
+      title: String,
+      authors: [String],
+      amount: Number,
+    },
+  ]
+  // cart: [{
+  //   id: {
+  //     type: mongoose.Schema.Types.ObjectId,
+  //     ref: "Book"
+  //   },
+  //   quantity: {
+  //     type: Number,
+  //     default: 1  // You can set a default quantity if needed
+  //   }
+  // }]
 });
+
+
 
 const Book = mongoose.model("Book", {
  

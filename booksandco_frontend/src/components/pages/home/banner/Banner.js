@@ -5,7 +5,7 @@ function Banner() {
   return (
     <>
 
-<section>
+<section className='banner-section'>
   <div
     id="carouselExampleControls"
     className="main-banner carousel slide"

@@ -2,3 +2,39 @@
     max-width: 1920px;
 }
 
+
+ /* responsive css code   */
+ .row-posters{
+    justify-content: center !important;
+}
+ header nav{
+    height: 37px !important;
+} 
+
+.banner-section{
+    padding-top: 5px;
+}
+/* .logo-image {
+    height: 100% !important;
+} */
+
+@media screen and (max-width:524px) {
+    .offer-post .container{
+        display: block !important;
+    }
+   nav .first-nav-lists{
+        display: none !important;
+    }
+}
+@media screen and (max-width:300px) {
+    .logo-image{
+        display: none !important;
+    }
+    header nav {
+        justify-content: right !important;
+    }
+    .offer-post  {
+        text-align: center !important;
+    }
+
+}

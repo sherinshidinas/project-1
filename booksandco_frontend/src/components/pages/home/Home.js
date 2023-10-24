@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import Banner from "./banner/Banner";
 import Trending from "./now-trending/Trending";
 import Offer from "./offer-post/Offer";
@@ -10,8 +10,11 @@ import { AllData } from "../../../context/DataContext";
 import BestSellers from "./BestSellers.js/BestSellers";
 import Loader from "./loader/Loader";
 
-const Home = () => {
 
+const Home = () => {
+  
+  
+  
   return <div>
     
         <Header/>
@@ -23,7 +26,7 @@ const Home = () => {
         
         <Newreleased/>
         <BestSellers/>
-        <Trending/>
+        <Trending  />
         
         </AllData>
        

@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext,useState } from "react";
 import Layout from "../Layout";
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import Home from "./home/Home";
@@ -14,6 +14,7 @@ import { AllData } from "../../context/DataContext";
 import { useNavigate } from "react-router-dom";
 
 const Pages = () => {
+  
   
   
   return (

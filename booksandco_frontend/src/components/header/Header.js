@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState,useContext } from "react";
 import "./Header.css";
 import { Link, useNavigate } from "react-router-dom";
@@ -36,7 +37,7 @@ function Header() {
     <>
       <header className=" header fixed-top">
         {/* starting first navbar */}
-        <div className=" first-nav p-2">
+        <div className=" first-nav ">
           <nav className=" container-fluid d-flex text-white justify-content-between w-100 align-items-center  ">
             <div>
               <p id="toll-free" className=" my-auto align-items-center">
@@ -56,7 +57,7 @@ function Header() {
 
         {/* second navbar starts */}
 
-        <nav className="navbar bg-white  navbar-expand-lg navbar-light ">
+        <nav className="navbar bg-white  navbar-expand-lg navbar-light p-4">
           <img src="/bco.png" alt="" className="logo-image" />
           <button
             className="navbar-toggler"

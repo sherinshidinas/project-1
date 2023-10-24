@@ -40,9 +40,9 @@ function SignupForm() {
 
   return (
     <div className="container">
-      <div className="signupParentDiv">
+      <div className="signupParentDiv text-center">
         <img width="150px" height="100px" src="/bco.png" alt="" />
-        <form onSubmit={handleSubmit}>
+        <form className="text-left" onSubmit={handleSubmit}>
           <label htmlFor="fname">Username</label>
           <br />
           <input
@@ -91,11 +91,12 @@ function SignupForm() {
           <br />
           <button type="submit">Signup</button>
         </form>
-      </div>
-
-      <p className="parag text center text-muted">
+        <p className="parag text center text-muted">
         Already have an account? <Link to={'/login'}><a className="text-blue">Login</a></Link> 
       </p>
+      </div>
+
+   
     </div>
   );
 }

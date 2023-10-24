@@ -5,6 +5,11 @@
   align-items: center;
 }
 
+.add-to-cart-items img{
+  width: 128px;
+  height: 164px;
+}
+
 .cart-buttons {
   justify-content: space-between;
 }

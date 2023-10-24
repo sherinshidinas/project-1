@@ -86,10 +86,11 @@ function SignupForm() {
           <br />
           <button className="mb-2" type="submit">Login</button>
         </form>
-      </div>
-      <p className="pg text center text-muted  ">
+        <p className="pg text center text-muted  ">
         New to Books & Co?  <Link to={"/signin"}><a className="text-blue fw-bold ">Signup</a></Link> 
       </p>
+      </div>
+     
     </div>
   );
 }

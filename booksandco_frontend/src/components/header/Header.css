@@ -5,14 +5,14 @@
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  
   
-}
+} */
 
-/* .navbar{
+.navbar{
   position: fixed;
     background-color: white;
     top: 0;
     
-} */
+}
 
 .first-nav {
   background-color: #e42b26;
@@ -35,14 +35,14 @@
 }
 .first-nav-lists a {
   text-decoration: none;
-  color: white;
+  color: white; 
   /* margin: 0 25px; */
-}
+ }
 
 .navbar{
   height: 40px;
   /* margin-top: 14px; */
-}
+} 
 
 
 .logo-image{
@@ -69,11 +69,11 @@
 
  
 
- .icon a {
+  .icon a {
     text-decoration: none;
     margin-right: 2.5rem;
    
-  }
+  } 
 
   .icon{
     margin-left: 2.5rem;
@@ -121,11 +121,6 @@
 
   
 
- 
-
-
 
 
  
-
-

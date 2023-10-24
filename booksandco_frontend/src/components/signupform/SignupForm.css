@@ -7,14 +7,17 @@
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 6px;
+  text-align: center !important;
   /* box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
     */
 }
-
-.signupParentDiv img {
-  margin-left: 50px;
+form{
+  text-align: left !important;
 }
+/* .signupParentDiv img {
+  margin-left: 50px;
+} */
 
 .input {
   width: 15.5rem;
@@ -39,15 +42,15 @@
 }
 
 .signupParentDiv a {
-  display: flex;
-  justify-content: center;
+  /* display: flex;
+  justify-content: center; */
   cursor: pointer;
 }
-
+/* 
 .parag {
   margin-top: 515px;
   margin-left: 460px;
-}
+} */
 
 .parag a {
   cursor: pointer;
