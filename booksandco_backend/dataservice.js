@@ -304,6 +304,39 @@ const updateBook = (
 
 // -------------------------------------------------------------------------------------------
 
+// Add the following function to dataservice.js
+
+const searchProducts = async (query) => {
+  try {
+    const results = await db.Book.find({
+      $or: [
+        { "volumeInfo.title": { $regex: query, $options: "i" } },
+        { "volumeInfo.authors": { $regex: query, $options: "i" } },
+        { "volumeInfo.description": { $regex: query, $options: "i" } },
+        { "volumeInfo.categories": { $regex: query, $options: "i" } },
+      ],
+    }).limit(10); // You can adjust the limit as needed
+
+    return {
+      status: true,
+      message: "Search results retrieved successfully",
+      results,
+      statusCode: 200,
+    };
+  } catch (error) {
+    console.error("Error in searchProducts:", error);
+    return {
+      status: false,
+      message: "An error occurred during search",
+      statusCode: 500,
+    };
+  }
+};
+
+
+
+
+
 const addingProductToCart = async (id, email) => {
   try {
     const result = await db.Book.findOne({ id: id });
@@ -482,7 +515,8 @@ module.exports = {
   addingProductToCart,
   getCart,
   removeItemFromCart,
-  updateQuantityHandler
+  updateQuantityHandler,
+  searchProducts
   // trendingBooks,
   // viewCart
 };

@@ -1,14 +1,26 @@
-
-import React, { useEffect, useState,useContext } from "react";
+import React, { useEffect, useState, useContext } from "react";
 import "./Header.css";
 import { Link, useNavigate } from "react-router-dom";
 import { dispatchContext } from "../../context/AppProvider";
+import axios from "axios";
 
 function Header() {
-  const dispatch=useContext(dispatchContext);
+  const dispatch = useContext(dispatchContext);
+
+  const [searchQuery, setSearchQuery] = useState("");
+  const [searchResults, setSearchResults] = useState([]);
+
+  console.log("search query", searchQuery);
+  console.log("search results", searchResults);
+
   const [currentUser, setCurrentUser] = useState("");
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const navigate = useNavigate();
+
+  const myStyles = {
+   height:'20px',
+   width:'20px'
+  };
 
   useEffect(() => {
     const storedUser = localStorage.getItem("currentUserName");
@@ -23,12 +35,23 @@ function Header() {
     navigate("/login");
   };
 
+  const handleSearch = async (e) => {
+    e.preventDefault();
+
+    try {
+      const response = await axios.get(`http://localhost:3001/search?query=${searchQuery}`);
+      setSearchResults(response.data.results);
+    } catch (error) {
+      console.error(error);
+    }
+  };
+
   const handleLogout = () => {
     setIsLoggedIn(false);
     // Clear the authToken and mark the user as not authenticated
-    dispatch({type:"logout"})
-     // Remove the authToken from localStorage
-    localStorage.removeItem("token")
+    dispatch({ type: "logout" });
+    // Remove the authToken from localStorage
+    localStorage.removeItem("token");
     setCurrentUser(""); //reset the current when use logout
     localStorage.removeItem("currentUserName");
     navigate("/login");
@@ -76,32 +99,49 @@ function Header() {
             id="navbarSupportedContent "
           >
             <ul className="navbar-nav mr-5">
-              <form className="form-inline  d-flex  ">
+              <form className="form-inline  d-flex" onSubmit={handleSearch}>
                 <input
                   className="search-box"
                   type="search"
                   placeholder="What are you looking for?"
                   aria-label="Search"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
                 />
 
                 <button className=" my-auto m-1 " type="submit" id="search">
                   <i className="fa-solid fa-magnifying-glass tex-muted"></i>
                 </button>
               </form>
+
+             
             </ul>
+
+            {/* Display search results */}
+              <div style={myStyles}>
+                {searchResults.map((product) => (
+                  <div key={product._id}>
+                   <p>{product.volumeInfo.title}</p> 
+                   <img  src={product.volumeInfo.imageLinks.smallThumbnail} alt="" />
+                    </div>
+                  
+                ))}
+              </div>
 
             <div className=" items d-flex gap-5 ">
               <a href="#" className=" text-muted icon ">
                 <i className="fa-solid fa-heart"></i>
               </a>
-              
 
-         {isLoggedIn ? ( <Link to="/cart" className="icon text-muted">
-                <i className="fa fa-fw fa-shopping-cart" />
-              </Link>):  <Link to="/login" className="icon text-muted">
-                <i className="fa fa-fw fa-shopping-cart" />
-              </Link> }
-             
+              {isLoggedIn ? (
+                <Link to="/cart" className="icon text-muted">
+                  <i className="fa fa-fw fa-shopping-cart" />
+                </Link>
+              ) : (
+                <Link to="/login" className="icon text-muted">
+                  <i className="fa fa-fw fa-shopping-cart" />
+                </Link>
+              )}
 
               <li className="nav-item dropdown ">
                 {isLoggedIn ? (

@@ -80,6 +80,26 @@ app.get("/all-books", (request, response) => {
 });
 
 
+// Add the following endpoint to index.js
+
+// Search products endpoint
+app.get("/search", async (req, res) => {
+  const query = req.query.query;
+
+  try {
+    const result = await dataservice.searchProducts(query);
+    res.status(result.statusCode).send(result);
+  } catch (error) {
+    console.error("Error in /search endpoint:", error);
+    res.status(500).json({
+      status: false,
+      message: "An error occurred during search",
+      statusCode: 500,
+    });
+  }
+});
+
+
 //admin side add product
 app.post("/add-product", (request, response) => {
   console.log("user logged");

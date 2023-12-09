@@ -5,6 +5,7 @@ import { stateContext } from "../../../context/AppProvider";
 import "./AddtoCart.css";
 import { Link, useNavigate } from "react-router-dom";
 import axios from "axios";
+import { deleteHandlerOfCartProductItems } from "../home/productremfromcartUtils";
 
 function AddtoCart() {
   const { token } = useContext(stateContext);
@@ -63,23 +64,23 @@ function AddtoCart() {
 
   
 
-  const deleteHandlerOfCartProductItems = (productId) => {
-    const username = localStorage.getItem("currentUser");
-    axios
-      .delete(`http://localhost:3001/remove-product-from-cart/${productId}`, {
-        headers: {
-          "x-access-token": `Bearer ${token}`,
-        },
-      })
-      .then((response) => {
-        alert(response.data.message);
-        fetchData();
-      })
-      .catch((error) => {
-        console.log(error);
-        alert("An error occured while deleting the product from the cart");
-      });
-  };
+  // const deleteHandlerOfCartProductItems = (productId) => {
+  //   const username = localStorage.getItem("currentUser");
+  //   axios
+  //     .delete(`http://localhost:3001/remove-product-from-cart/${productId}`, {
+  //       headers: {
+  //         "x-access-token": `Bearer ${token}`,
+  //       },
+  //     })
+  //     .then((response) => {
+  //       alert(response.data.message);
+  //       fetchData();
+  //     })
+  //     .catch((error) => {
+  //       console.log(error);
+  //       alert("An error occured while deleting the product from the cart");
+  //     });
+  // };
 
   const renderCartItems = () => {
     if (loading) {
@@ -152,7 +153,7 @@ function AddtoCart() {
               <button
                 className=""
                 onClick={() => {
-                  deleteHandlerOfCartProductItems(item.id);
+                  deleteHandlerOfCartProductItems(item.id,token,fetchData);
                 }}
               >
                 {" "}

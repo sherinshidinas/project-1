@@ -1,10 +1,12 @@
-export const addToCartButtonHandling = (item, buttonTexts, setButtonTexts) => {
+
+export const addToCartButtonHandling = (item, buttonTexts, setButtonTexts,deleteHandlerOfCartProductItems) => {
     setButtonTexts((prevButtonTexts)=>{
      const updatedButtonTexts={...prevButtonTexts}
 
      if(!updatedButtonTexts[item.id] || updatedButtonTexts[item.id] === 'Add to Cart'){
-       updatedButtonTexts[item.id]='Added to Cart'
+       updatedButtonTexts[item.id]='Remove Cart'
      }else{
+      deleteHandlerOfCartProductItems()
        updatedButtonTexts[item.id]='Add to Cart'
      }
 

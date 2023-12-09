@@ -6,6 +6,7 @@ import { dispatchContext } from "../../../../context/AppProvider";
 import { stateContext } from "../../../../context/AppProvider";
 import { addToCartHandler } from "../cartUtils";
 import { addToCartButtonHandling } from "../cartButtonUtils";
+import { deleteHandlerOfCartProductItems } from "../productremfromcartUtils";
 
 function Trending() {
   const dispatch = useContext(dispatchContext);
@@ -66,7 +67,7 @@ function Trending() {
             className={`btn btn-success ${buttonClass}`}
             onClick={() => {
               addToCartHandlerTrending(item);
-              addToCartButtonHandling(item, buttonTexts, setButtonTexts);
+              addToCartButtonHandling(item, buttonTexts, setButtonTexts,deleteHandlerOfCartProductItems);
             }}
           >
             {buttonText}
