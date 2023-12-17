@@ -4,9 +4,9 @@ export const addToCartButtonHandling = (item, buttonTexts, setButtonTexts,delete
      const updatedButtonTexts={...prevButtonTexts}
 
      if(!updatedButtonTexts[item.id] || updatedButtonTexts[item.id] === 'Add to Cart'){
-       updatedButtonTexts[item.id]='Remove Cart'
+       updatedButtonTexts[item.id]='Added Cart'
      }else{
-      deleteHandlerOfCartProductItems()
+      // deleteHandlerOfCartProductItems()
        updatedButtonTexts[item.id]='Add to Cart'
      }
 
